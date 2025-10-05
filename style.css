@@ -35,7 +35,6 @@
   font-family: Arial, sans-serif;
   background-color: #EEEEEE;
   margin: 0;
-  padding: 20px;
 }
 
 h1 {
@@ -176,6 +175,20 @@ form button:hover {
     }
     span{
       font-weight: bold;
+    }
+    .side_h{
+      height:38px;
+      width:100%;
+      font-family: arial;
+      font-weight: bold;
+      text-align: center;
+      justify-content: center;
+      color:white;
+      background-color: #22222266;
+      border-radius: 4px;
+       box-shadow: 0 2px 5px rgba(0, 0, 0, 0.703);
+       align-items: center;
+      
     }
 
    
